@@ -1,0 +1,4 @@
+ignoring non html files, C files and Header files
+*.h
+*.c
+*.C
